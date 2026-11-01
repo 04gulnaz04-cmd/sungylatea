@@ -1,0 +1,110 @@
+[
+  {
+    "src": "assets/plant-habitat.webp",
+    "thumb": "assets/plant-habitat-thumb.webp",
+    "title": "Табиғи ортадағы сұңғыла",
+    "category": "Өсімдік",
+    "source": "Презентация, 6-слайд",
+    "width": 960,
+    "height": 1280
+  },
+  {
+    "src": "assets/plant-detail.webp",
+    "thumb": "assets/plant-detail-thumb.webp",
+    "title": "Сұңғыланың сыртқы көрінісі",
+    "category": "Өсімдік",
+    "source": "Презентация, 1-слайд",
+    "width": 1280,
+    "height": 1920
+  },
+  {
+    "src": "assets/plant-example.webp",
+    "thumb": "assets/plant-example-thumb.webp",
+    "title": "Сұңғыла туралы көрнекі материал",
+    "category": "Өсімдік",
+    "source": "Презентация, 3-слайд",
+    "width": 943,
+    "height": 1210
+  },
+  {
+    "src": "assets/researcher.webp",
+    "thumb": "assets/researcher-thumb.webp",
+    "title": "Жоба авторы — Қалдыбек Эсманұр",
+    "category": "Зерттеу",
+    "source": "Презентация, 5-слайд",
+    "width": 900,
+    "height": 1600
+  },
+  {
+    "src": "assets/map-presentation.webp",
+    "thumb": "assets/map-presentation-thumb.webp",
+    "title": "Географиялық деректермен жұмыс",
+    "category": "Зерттеу",
+    "source": "Презентация, 5-слайд",
+    "width": 900,
+    "height": 1600
+  },
+  {
+    "src": "assets/meeting-school.webp",
+    "thumb": "assets/meeting-school-thumb.webp",
+    "title": "Зерттеу аясындағы кездесу",
+    "category": "Кездесу",
+    "source": "Презентация, 4-слайд",
+    "width": 1600,
+    "height": 1200
+  },
+  {
+    "src": "assets/meeting-family.webp",
+    "thumb": "assets/meeting-family-thumb.webp",
+    "title": "Жоба материалдарын таныстыру",
+    "category": "Кездесу",
+    "source": "Презентация, 4-слайд",
+    "width": 1280,
+    "height": 720
+  },
+  {
+    "src": "assets/plant-document.webp",
+    "thumb": "assets/plant-document-thumb.webp",
+    "title": "Сұңғыла: жұмысқа енгізілген фото",
+    "category": "Өсімдік",
+    "source": "Ғылыми жұмыс, фотосуреттер",
+    "width": 472,
+    "height": 606
+  },
+  {
+    "src": "assets/researcher-document.webp",
+    "thumb": "assets/researcher-document-thumb.webp",
+    "title": "Жоба авторының фотосуреті",
+    "category": "Зерттеу",
+    "source": "Ғылыми жұмыс, фотосуреттер",
+    "width": 493,
+    "height": 607
+  },
+  {
+    "src": "assets/map-document.webp",
+    "thumb": "assets/map-document-thumb.webp",
+    "title": "Карта бойынша ізденіс",
+    "category": "Зерттеу",
+    "source": "Ғылыми жұмыс, фотосуреттер",
+    "width": 498,
+    "height": 532
+  },
+  {
+    "src": "assets/meeting-document-1.webp",
+    "thumb": "assets/meeting-document-1-thumb.webp",
+    "title": "Кездесу сәті: жоба мұрағаты",
+    "category": "Кездесу",
+    "source": "Ғылыми жұмыс, фотосуреттер",
+    "width": 751,
+    "height": 392
+  },
+  {
+    "src": "assets/meeting-document-2.webp",
+    "thumb": "assets/meeting-document-2-thumb.webp",
+    "title": "Қатысушылармен бірге",
+    "category": "Кездесу",
+    "source": "Ғылыми жұмыс, фотосуреттер",
+    "width": 750,
+    "height": 479
+  }
+]
